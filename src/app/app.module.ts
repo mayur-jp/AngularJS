@@ -9,7 +9,6 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { ReactiveFormsModule } from '@angular/forms';
 import { CurrecyComponent } from './currecy/currecy.component';
 import { StopwatchComponent } from './stopwatch/stopwatch.component';
-import { TextEditorComponent } from './text-editor/text-editor.component';
 import { HttpClientModule } from '@angular/common/http';
 import { FormsModule } from '@angular/forms';
 
@@ -19,7 +18,6 @@ import { FormsModule } from '@angular/forms';
     SidenavComponent,
     CurrecyComponent,
     StopwatchComponent,
-    TextEditorComponent,
     
   ],
   imports: [
