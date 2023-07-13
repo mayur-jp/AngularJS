@@ -1,0 +1,35 @@
+p {
+  font-family: Lato;
+}
+
+#form-container {
+  margin: 100px auto 0 auto;
+  padding: 10px;
+  max-width: 500px;
+  border-radius: 10px;
+  background-color: lightcyan;
+}
+
+.container {
+  margin-top: 1px;
+}
+
+.from {
+  margin-top: 13px;
+}
+
+.inputform {
+  margin-left: 18px;
+}
+
+.inputTo {
+  margin-left: 35px;
+}
+
+.form-container1 {
+  margin: 100px auto 0 auto;
+  padding: 10px;
+  max-width: 500px;
+  border-radius: 10px;
+  background-color: lightcyan;
+}
